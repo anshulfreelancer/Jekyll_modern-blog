@@ -1,6 +1,6 @@
 ---
 title:  "My Double Dose of Joy!"
-subtitle: "It's always a bit messy"
+subtitle: ""
 author: "Shruti"
 avatar: "img/authors/shruti.jpg"
 image: "img/double-dose-overlay.jpeg"
