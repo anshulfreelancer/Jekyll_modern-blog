@@ -3,7 +3,7 @@ title:  "The Treasured Childhood!"
 subtitle: ""
 author: "Shruti"
 avatar: "img/authors/shruti.jpg"
-image: "img/its-bit-messy.jpg"
+image: "img/its-bit-messy-overlay.jpg"
 date:   2019-02-17 12:12:12
 ---
 
