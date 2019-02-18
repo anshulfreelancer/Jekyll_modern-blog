@@ -1,6 +1,6 @@
 ---
 title:  "The Treasured Childhood!"
-subtitle: "The power of stories"
+subtitle: ""
 author: "Shruti"
 avatar: "img/authors/shruti.jpg"
 image: "img/treasured-childhood-overlay.jpeg"
