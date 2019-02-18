@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
+title: Twins Onboard
 description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+keywords: Twins, Blogging, Fun
+author: Shruti
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "www.twinsonboard.in" # the base hostname & protocol for your site
