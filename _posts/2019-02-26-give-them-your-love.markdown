@@ -1,6 +1,6 @@
 ---
-title:  "Give Them Your Love<br>but Not Your Thoughts"
-subtitle: ""
+title:  "Give Them Your Love"
+subtitle: "But Not Your Thoughts"
 author: "Shruti"
 avatar: "img/authors/shruti.jpg"
 image: "img/give-them-your-love-overlay.jpeg"
