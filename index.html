@@ -1,5 +1,6 @@
 ---
 layout: compress
+comments: true
 ---
 <!DOCTYPE html>
 <html lang="en" class="no-js">
@@ -68,7 +69,29 @@ layout: compress
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
                             {{ post.content }}
-                        </div>
+                            {% if page.comments %}
+                            <div id="disqus_thread"></div>
+                                <script>
+
+                                /**
+                                *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                                *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                                
+                                var disqus_config = function () {
+                                this.page.url = '{{post.canonical-url}}';  // Replace PAGE_URL with your page's canonical URL variable
+                                this.page.identifier = '{{post.page-identifier}}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                                
+                                };                    
+                                (function() { // DON'T EDIT BELOW THIS LINE
+                                var d = document, s = d.createElement('script');
+                                s.src = 'https://twinsonboard.disqus.com/embed.js';
+                                s.setAttribute('data-timestamp', +new Date());
+                                (d.head || d.body).appendChild(s);
+                                })();
+                                </script>
+                                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            {% endif %}
+                        </div>                        
                     </div>
                 </div>
             </div>
@@ -85,5 +108,6 @@ layout: compress
 <script src="js/vendors/cash.min.js"></script>
 <script src="js/card-modern-blog.js"></script>
 <script src="js/modern-blog.js"></script>
+<script id="dsq-count-scr" src="//twinsonboard.disqus.com/count.js" async></script>
 </body>
 </html>
