@@ -6,6 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/give-them-your-love-overlay.jpeg"
 date:   2019-02-26 01:01:01
 published: true
+slug: give-them-your-love
 ---
 
 I had a tough time driving the girls back from school today. It’s a challenge most of the days. I have to bribe them daily to sit quietly in the car and behave so that I can drive them home safely. But at this time, the girls are a bit sleepy, tired, and a little hungry too. In short, they’re not in their best of moods.

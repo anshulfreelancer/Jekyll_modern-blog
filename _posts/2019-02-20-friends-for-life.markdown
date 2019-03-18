@@ -6,6 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/friends-for-life-overlay.jpeg"
 date:   2019-02-20 01:01:01
 published: true
+slug: friends-for-life
 ---
 
 Have you ever thought how is it like having a lifelong friend? What your life would have been without them? Someone whom you have known most of your life. I am blessed to have two of those.
@@ -23,3 +24,4 @@ As a parent today I feel it is important to nurture childhood friendships for ou
 As parents we can handhold our children and help them to manage their friendships. Every child is different. For some children these skills come naturally. For such children is it easy to open up to new people. However there are others for whom meeting new people and showing friendly gestures might be a harder area to navigate. So it is very important to help your kids to develop positive social skills from an early age. Importance of sharing, taking other peoples feeling in to account and listening are crucial aspects to be focused.
 
 It’s our responsibility to expose kids to this beautiful world of friendship. Once they grow up they would always cherish their first childhood friend. The one they were excited to see first thing inside the school gates. The one with they had adventure, fun, and laughter in the college. The one who will be a witness to all their crazy times and milestone in life — their secret confidants. The world of friendship is the most soothing place. Let our kids be a part of this.
+

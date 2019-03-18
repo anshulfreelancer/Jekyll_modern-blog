@@ -8,6 +8,7 @@ date:   2019-02-15 12:12:12
 canonical-url: https://twinsonboard.in/double-dose-of-joy
 page-identifier: twins-double-dose
 comments: true
+slug: double-dose-of-joy
 ---
 
 Lucky is a pregnancy that brings two babies into the world. 
@@ -23,3 +24,5 @@ ME time had always been a distant dream. The only ones I had was going to the wa
 Throughout the last 3 years of raising my girls I have been self-assessing as to how good a Mom I am. I had been quite harsh on myself and felt guilty for missing the timeline for potty training, for zero diaper time, for zero screen time, and several such to do’s. However, during this process I have also made peace with the fact that it’s practically not possible to do everything for both the babies at the same time. So it pretty ok when one baby is going to lie down and cry while I attend to the other one.
 
 In spite of these growing challenges with every passing day, when I walk holding hands with two toddlers - one on the left and one on the right, I feel no less than a Superwoman. When I lie down on the bed, sandwiched between both of them, each urging me to face her side, I find it tough but I do fairly well. The endless cuddles on the couch with mommy in the middle fill me with the kind of energy that would last a lifetime. It’s a story of double hugs, double kisses, double delight, and double blessing. Life just doesn’t get any better than this!
+
+

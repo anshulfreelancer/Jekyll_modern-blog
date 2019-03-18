@@ -6,6 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/greying-hair-growing-kids.jpeg"
 date:   2019-03-14 01:01:01
 published: true
+slug: greying-hair-growing-kids
 ---
 
 Recently I got a chance to be at the movies with my husband after a long time. After more than four years. I was elated. Three years of parenting twins and almost a year of high-risk twin pregnancy had deprived me of many such little pleasures.
@@ -50,3 +51,4 @@ So please do not look for excuses to feel pity for yourself, rather embrace your
 
 Love,
 Shruti!
+

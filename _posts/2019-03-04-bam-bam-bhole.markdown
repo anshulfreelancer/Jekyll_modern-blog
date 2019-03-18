@@ -6,6 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/bam-bam-bhole-overlay.jpeg"
 date:   2019-03-04 01:01:01
 published: true
+slug: bam-bam-bhole
 ---
 
 It was such an eventful day today. We celebrated Mahashivratri like never before. Dhvani and Avani were dressed up as Lord Shiva & Maa Parvati . We arranged for a play date where few of their friends were invited. The dress code was Shiva or Parvati. The girls did abhishekam for the tiny brass Shiva idol. It was an artifact I picked up 8 years back from the colorful markets of Jaipur. 
@@ -46,3 +47,5 @@ Happy Mahashivratri!
  
 Love,
 Shruti!
+
+

@@ -5,6 +5,7 @@ author: "Shruti"
 avatar: "img/authors/shruti.jpg"
 image: "img/its-bit-messy-overlay.jpg"
 date:   2019-02-17 12:12:12
+slug: treasured-childhood
 ---
 
 If you ask me about my most precious childhood memories, I would say it was the time when I was ensconced in bed with my grandmother, holding her tightly and listening to the most amazing tales of Ram, Sita, Krishna, and numerous other mythological characters. 
@@ -38,3 +39,5 @@ I might be biased but listening to their blockbuster stories is full paisa vasoo
 Based on my 3-years of parenting twins, I strongly feel that active storytelling should be an important part of parents schedule. I know that digital medium can’t be avoided completely but it can never be a replacement for a mother or father’s voice and face.
 
 Let’s not deprive our kids of the precious stories about our culture and heritage. Let’s give wings to their vivid imagination. What could be a better gift in life than the gift of “A Treasured Childhood”.
+
+
