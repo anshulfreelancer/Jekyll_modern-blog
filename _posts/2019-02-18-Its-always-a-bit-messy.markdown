@@ -6,7 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/treasured-childhood-overlay.jpeg"
 date:   2019-02-18 01:01:01
 published: true
-slug: a-bit-messy
+slug: its-always-a-bit-messy
 ---
 
 Little kids are masters of the moment. They love the way it feels when they smear paint on paper or when they get to scribble on the wall. They’re neither self-conscious about what they are doing nor they’re bothered about creating a finished product.
