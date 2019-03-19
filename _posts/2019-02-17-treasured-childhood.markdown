@@ -5,7 +5,7 @@ author: "Shruti"
 avatar: "img/authors/shruti.jpg"
 image: "img/its-bit-messy-overlay.jpg"
 date:   2019-02-17 12:12:12
-slug: treasured-childhood
+slug: "treasured-childhood"
 ---
 
 If you ask me about my most precious childhood memories, I would say it was the time when I was ensconced in bed with my grandmother, holding her tightly and listening to the most amazing tales of Ram, Sita, Krishna, and numerous other mythological characters. 

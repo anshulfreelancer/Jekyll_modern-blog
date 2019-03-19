@@ -8,7 +8,7 @@ date:   2019-02-15 12:12:12
 canonical-url: https://twinsonboard.in/double-dose-of-joy
 page-identifier: twins-double-dose
 comments: true
-slug: double-dose-of-joy
+slug: "double-dose-of-joy"
 ---
 
 Lucky is a pregnancy that brings two babies into the world. 

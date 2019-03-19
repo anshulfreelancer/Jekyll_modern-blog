@@ -6,7 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/daddys-girl-overlay.jpeg"
 date:   2019-02-21 01:01:01
 published: true
-slug: daddys-little-girl
+slug: "daddys-little-girl"
 ---
 
 This picture dates back to a day before my wedding. That was six years back. That’s my dad in the picture. I am sure the picture will give you a buddy feel.

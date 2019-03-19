@@ -6,7 +6,7 @@ avatar: "img/authors/shruti.jpg"
 image: "img/friends-for-life-overlay.jpeg"
 date:   2019-02-20 01:01:01
 published: true
-slug: friends-for-life
+slug: "friends-for-life"
 ---
 
 Have you ever thought how is it like having a lifelong friend? What your life would have been without them? Someone whom you have known most of your life. I am blessed to have two of those.
